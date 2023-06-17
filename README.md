@@ -63,3 +63,13 @@ Po splnění předchozích bodů
 
 * [CSS Tricks Guides](https://css-tricks.com/guides/)
 * [Metodika BEM](http://getbem.com/introduction/)
+
+
+
+
+
+
+
+
+
+WEB ZDE ===== https://davidfokt.github.io/Vystupni-web/
